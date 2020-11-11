@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/aboutId"
+            android:title="About us" />
+        <item
+            android:id="@+id/creatorId"
+            android:title="Creator" />
+        <item
+            android:id="@+id/logoutId"
+            android:title="Log Out" />
+    </group>
+</menu>
